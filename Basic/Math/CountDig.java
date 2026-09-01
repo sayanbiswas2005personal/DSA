@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class CountDig {
     public static int solve(int n) {
