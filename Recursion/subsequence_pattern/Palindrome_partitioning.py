@@ -1,3 +1,5 @@
+from typing import List
+
 def palindrome_check(self,s,start,end):
         while start < end:
             if s[start] != s[end]:

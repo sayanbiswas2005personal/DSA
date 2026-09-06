@@ -1,3 +1,4 @@
+from typing import List # this is added to validate the hinting of the function solveNQueens
 class Solution:
     def __init__(self):
         self.N = 0

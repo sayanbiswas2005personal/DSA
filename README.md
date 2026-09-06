@@ -28,7 +28,11 @@ Recursion
 8. [letter_combination_of_a_phone_num](Recursion/subsequence_pattern/LetterCombinationOfAPhoneNum.py)
 9. [Palindrome_partioning](Recursion/subsequence_pattern/Palindrome_partitioning.py)
 10. [word search](Recursion/subsequence_pattern/word_search.py)
+11. [Rat in the maze](Recursion/subsequence_pattern/rat_in_the_maze.py)
+12. [word break](Recursion/subsequence_pattern/word_break.py)
+13. [M coloring problem]{Recursion/subsequence_pattern/m_coloring_problem.py}
 
 ### 🟥 Red - Hard
 1. [Subsequences having sum k](Recursion/subsequence_pattern/SubsequencesWithSumK.py)
 2. [N-queens](Recursion/subsequence_pattern/N_queens.py)
+3. 

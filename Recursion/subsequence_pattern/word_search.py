@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def helper(self,i,j,board,word,ind):
         if ind == len(word):
