@@ -1,16 +1,15 @@
 # OS files
 .DS_Store
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-.venv/
-venv/
-
 # IDE/editor
 .vscode/
 .idea/
 
 # Logs
 *.log
+
+# C++ compiled files
+*.out
+*.exe
+*.o
+*.a
